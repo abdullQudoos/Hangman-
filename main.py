@@ -176,7 +176,7 @@ list = ["alia","walia","samim"]
 lives = 6
 chosen_word = random.choice(list)
 print(chosen_word)
-
+# this is the random part of the projects
 placeholder = ""
 word_length = len(chosen_word)
 for position in range(word_length):
